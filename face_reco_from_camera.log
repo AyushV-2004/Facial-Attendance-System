@@ -1,0 +1,24 @@
+2024-08-31 06:34:41,936 - ERROR - Error connecting to MySQL: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-08-31 06:34:43,277 - INFO - Faces in Database: 7
+2024-08-31 06:34:43,277 - DEBUG - Frame 1 starts
+2024-08-31 06:34:44,306 - DEBUG - Frame 2 starts
+2024-08-31 06:34:44,357 - DEBUG - scene 1:   No face cnt changes in this frame!!!
+2024-08-31 06:34:44,591 - ERROR - Error connecting to MySQL: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-08-31 06:34:49,976 - ERROR - Error connecting to MySQL: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-08-31 06:34:51,216 - INFO - Faces in Database: 7
+2024-08-31 06:34:51,216 - DEBUG - Frame 1 starts
+2024-08-31 06:34:52,185 - DEBUG - Frame 2 starts
+2024-08-31 06:34:52,222 - DEBUG - scene 1:   No face cnt changes in this frame!!!
+2024-08-31 06:34:52,456 - ERROR - Error connecting to MySQL: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2024-08-31 06:36:16,667 - INFO - Faces in Database: 7
+2024-08-31 06:36:16,667 - DEBUG - Frame 1 starts
+2024-08-31 06:36:17,671 - DEBUG - Frame 2 starts
+2024-08-31 06:36:17,707 - DEBUG - scene 1:   No face cnt changes in this frame!!!
+2024-08-31 06:36:54,110 - INFO - Faces in Database: 7
+2024-08-31 06:36:54,111 - DEBUG - Frame 1 starts
+2024-08-31 06:36:55,108 - DEBUG - Frame 2 starts
+2024-08-31 06:36:55,156 - DEBUG - scene 1:   No face cnt changes in this frame!!!
+2024-08-31 06:37:00,066 - INFO - Faces in Database: 7
+2024-08-31 06:37:00,066 - DEBUG - Frame 1 starts
+2024-08-31 06:37:01,029 - DEBUG - Frame 2 starts
+2024-08-31 06:37:01,066 - DEBUG - scene 1:   No face cnt changes in this frame!!!
